@@ -1,1 +1,1 @@
-here are some books to penetration test
+here are some books to learn penetration test
